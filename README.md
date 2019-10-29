@@ -1,4 +1,4 @@
 # tributePage
 FCC: Tribute Page 
 
-Available at: https://github.com/elmamdzc/tributePage/
+Available at: https://elmamdzc.github.io/tributePage/
